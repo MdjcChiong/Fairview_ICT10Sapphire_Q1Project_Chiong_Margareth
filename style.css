@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/37/7d/b6/377db6cea8ba77dc96fa49a4c9e08a15.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-brand {
+    color: #d47798;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #d989a5;
+    border-color: #d989a5;
+}
+
+.btn-primary:hover {
+    background-color: #c87594;
+    border-color: #c87594;
+}
+
+.card {
+    border-radius: 15px;
+    overflow: hidden;
+    border: none;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card-body {
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+.receipt-box {
+    background-color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #d47798;
+    font-weight: bold;
+}
